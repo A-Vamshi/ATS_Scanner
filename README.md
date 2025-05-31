@@ -18,6 +18,17 @@
 3. **ATS Scoring**: GEMINI AI evaluates the resume’s relevance to the job description based on several factors like experience, keyword presence, and structure.
 4. **Feedback and Insights**: The system provides an ATS score along with a detailed explanation, highlighting areas where the resume aligns well with the job description and where improvements can be made.
 
+## 📷 Demo
+<img src="/images/1.png" alt="screenshot" width="1000"/> <img src="/images/2.png" alt="screenshot" width="1000"/>
+<img src="/images/3.png" alt="screenshot" width="1000"/>
+<img src="/images/4.png" alt="screenshot" width="1000"/>
+<img src="/images/5.png" alt="screenshot" width="1000"/>
+<img src="/images/6.png" alt="screenshot" width="1000"/>
+<img src="/images/7.png" alt="screenshot" width="1000"/>
+<img src="/images/8.png" alt="screenshot" width="1000"/>
+<img src="/images/9.png" alt="screenshot" width="1000"/>
+<img src="/images/10.png" alt="screenshot" width="1000"/>
+
 ## **Key Benefits**
 
 - **Optimized for ATS**: Helps ensure resumes are formatted and worded in a way that increases their chances of passing through automated ATS filters.
